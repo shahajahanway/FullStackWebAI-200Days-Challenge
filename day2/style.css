@@ -1,0 +1,37 @@
+.heading{
+    text-align: center;
+}
+.navbar{
+    text-align: center;
+    word-spacing: 50px; 
+    background-color: #4300FF; 
+    padding-top: 20px; 
+    padding-bottom: 10px;
+}
+.navlink{
+    color: white;
+    
+}
+.title{
+    background-color:azure ;
+    padding-top: 20px; 
+    padding-bottom: 10px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: 900;
+}
+.copy{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    word-spacing: 10px; 
+    background-color: #4300FF; 
+    padding-top: 20px; 
+    padding-bottom: 10px;
+}
