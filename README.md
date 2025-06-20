@@ -13,6 +13,7 @@ Welcome to my 200-day public coding challenge where I document my journey to bec
 - Day 2: ✅ Completed
 - Day 3: ✅ Completed
 - Day 4: ✅ Completed
+- Day 5: ✅ Completed
 - ...
 - Day 200: 🚀 Job-Ready Full-Stack AI Developer
 
